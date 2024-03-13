@@ -1,4 +1,5 @@
 # Checkin
+2024-3-14
 
 GitHub Actions 实现 [[GLaDOS](https://glados.space/landing/O1DAT-F3L2C-2WPC4-VZXSZ)] 自动签到
 
